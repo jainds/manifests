@@ -110,7 +110,7 @@ spec:
       - name: oidc_redirect_uris
         value: '["/login/oidc"]'
       - name: static_email
-        value: admin@kubeflow.org
+        value: piyush.jain@prudential.com.sg
       - name: static_password_hash
         value: $2y$12$ruoM7FqXrpVgaol44eRZW.4HWS8SAvg6KYVVSCIwKQPBmTpCm.EeO
       repoRef:
